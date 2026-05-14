@@ -1,0 +1,5 @@
+python phase2_features.py
+python phase3_processing.py
+python phase4_training.py
+python partition_analysis.py   
+python app.py                 
